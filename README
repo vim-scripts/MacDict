@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5080
+
+This is a Vim plugin to search for a word in your system dictionary.
+
+It currently only supports OSX.
+
+You can check it out on GitHub at https://github.com/jonhiggs/MacDict.vim.
+
+
